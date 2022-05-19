@@ -1,0 +1,16 @@
+Login = 26, 26, 726, 345, Z, 52, 52, 627, 432, C
+transport = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+home = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+loading = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+register = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+stockdetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+customerdetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+purchaseinformation = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+empdetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+billing = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+addemployee = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+addSupplier = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Salesdetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Supplierdetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+billinginformation = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+addstock = 0, 0, 0, 0, C, 0, 0, 0, 0, C
